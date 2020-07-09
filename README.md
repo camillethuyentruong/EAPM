@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/bgrueda/rootstock/tree/gh-pages) branch hosts the contents of this directory at <https://bgrueda.github.io/rootstock/>.
-The permalink for this webpage version is <https://bgrueda.github.io/rootstock/v/ce827c7789163dca33dfa3bd2df7aa828e57485d/>.
+The permalink for this webpage version is <https://bgrueda.github.io/rootstock/v/a568300258b5860d148f563761f84c82308b6440/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://bgrueda.github.io/rootstock/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ce827c7789163dca33dfa3bd2df7aa828e57485d`](https://github.com/bgrueda/rootstock/commit/ce827c7789163dca33dfa3bd2df7aa828e57485d).
+[`a568300258b5860d148f563761f84c82308b6440`](https://github.com/bgrueda/rootstock/commit/a568300258b5860d148f563761f84c82308b6440).
